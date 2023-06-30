@@ -1,3 +1,6 @@
+# terraform-provider-docusign
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ultratendency_terraform-provider-docusign&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ultratendency_terraform-provider-docusign)
 
 This terraform provider allows to perform Create ,Read ,Update, Delete and Import docusign User(s). 
 
