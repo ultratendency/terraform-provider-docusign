@@ -1,6 +1,6 @@
 module terraform-provider-docusign
 
-go 1.16
+go 1.20
 
 require (
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.27.0
