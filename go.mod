@@ -1,11 +1,12 @@
 module terraform-provider-docusign
 
-go 1.20
+go 1.23.0
+
 toolchain go1.24.1
 
 require (
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.36.1
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 )
 
 require (
