@@ -1,9 +1,10 @@
 package main
 
 import (
+	"terraform-provider-docusign/docusign"
+
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
-	"terraform-provider-docusign/docusign"
 )
 
 func main() {
